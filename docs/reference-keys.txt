@@ -2,10 +2,12 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
+fig:nicefig
 about
 usage
-hello-bookdown
+hello-how-are-you
 a-section
+an-unnumbered-section
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
@@ -21,3 +23,5 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
+test-book-down
+test-this-section
